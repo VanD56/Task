@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.softwaretechnologies.ExceptionTaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-07T10:47:43" hostname="PC102093" time="0.063">
+  <properties/>
+  <testcase name="printMessage2()" classname="org.softwaretechnologies.ExceptionTaskTest" time="0.063"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
